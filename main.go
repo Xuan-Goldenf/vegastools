@@ -1,6 +1,6 @@
 package main
 
-import Util "gioco.co/vegas/tool/util"
+import Util "github.com/vegas/tool/util"
 
 func main() {
 	Util.Echo("hello")

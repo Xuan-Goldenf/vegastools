@@ -1,3 +1,3 @@
-module gioco.co/vegas/tool
+module github.com/vegas/tool
 
 go 1.12
